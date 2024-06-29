@@ -57,7 +57,7 @@ def get_generated_images(api_key, generation_id):
 # Replace these variables with your own values
 YOUR_API_KEY = "users key goes here" #   Replace with your User Dev Key
 MODEL_ID = "users model id goes here"  # Replace with your model ID
-PROMPT = "a 100% young Asian female with black eyes, a height of 5'5, and black hair, sitting on the bed, wearing loose outfits, wearing an undergarment showing cleavage, having tattoos on her hands"
+PROMPT = "user prompt goes here"
 WIDTH = 512
 HEIGHT = 512
 NUM_IMAGES = 5  # Number of images to generate
@@ -86,7 +86,3 @@ else:
     print("No generation ID received, cannot retrieve images.")
 
 
-'''
-{"user_details":[{"user":{"id":"ae496c36-225e-4ed0-a29b-99fe997adc64","username":"ajvza"},"tokenRenewalDate":null,"subscriptionTokens":150,"subscriptionGptTokens":100,"subscriptionModelTokens":1,"apiConcurrencySlots":5}]}
-285dbc53-e66b-4d7f-a8e2-c6facb8d23c2
-'''    
