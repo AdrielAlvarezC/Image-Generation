@@ -87,21 +87,3 @@ while non_blurred_count < 5:
 
 print("5 non-blurred images saved.")
 
-
-
-
-
-
-'''
-
-BANNED PHRASES
-a 100% young Asian female with black eyes, a height of 5'5, 
-and black hair, sitting on the bed, wearing loose outfits showing cleavage, 
-wearing an undergarment showing cleavage of the private area, having tattoos on her hands,  being a prostitute
-
-WORKING PHASES
-a 100% young Asian female with black eyes with a height of 5'5 and black hair, sitting on the bed, wearing loose outfits, wearing little clothes, having tattoos on her hands
-
-    Can't use Prostitute or Cleavage or Undergarments (Previously Undergarments was allowed this cannot be used anymore(SAFE GUARDS ARE CONSTANTLY UPDATED))
-    Prompts may need to be edited to be more SFW..
-'''
